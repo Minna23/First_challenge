@@ -7,3 +7,5 @@ To reach this goal I made sure that:
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
+
+![image](https://user-images.githubusercontent.com/21089692/210186928-d8d022f1-4a89-4e48-a2e5-5b6729d1c0ae.png)
